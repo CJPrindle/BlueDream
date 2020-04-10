@@ -1,0 +1,27 @@
+{
+    "name": "blue-dream",
+    "displayName": "Blue Dream",
+    "description": "A perfect mix between the Blue Light and Blue Plant themes",
+	"publisher": "cjprindle",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.42.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Blue Dream",
+                "uiTheme": "vs",
+                "path": "./themes/blue-dream-color-theme.json"
+            }
+        ]
+    },
+	"__metadata": {
+		"id": "ac3f1c33-f39b-4180-8343-dfd125c1480b",
+		"publisherId": "20d23222-c802-4614-8c83-a774d382ca68",
+		"publisherDisplayName": "Christopher Prindle"
+	}
+}
