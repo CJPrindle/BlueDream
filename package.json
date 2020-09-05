@@ -3,7 +3,7 @@
     "displayName": "Blue Dream",
     "description": "A perfect mix between the Blue Light and Blue Plant themes",
 	"publisher": "cjprindle",
-    "version": "0.0.1",
+    "version": "1.0.1",
     "engines": {
         "vscode": "^1.42.0"
     },
